@@ -1,0 +1,194 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP C3D02060A
+D 600V, 2A, SiC Schottky Diode, TO-220
+K sic diode
+F https://www.wolfspeed.com/media/downloads/55/C3D02060A.pdf
+$ENDCMP
+#
+$CMP C3D03060A
+D 600V, 3A, SiC Schottky Diode, TO-220
+K sic diode
+F https://www.wolfspeed.com/media/downloads/57/C3D03060A.pdf
+$ENDCMP
+#
+$CMP C3D04060A
+D 600V, 4A, SiC Schottky Diode, TO-220
+K sic diode
+F https://www.wolfspeed.com/media/downloads/845/C3D04060A.pdf
+$ENDCMP
+#
+$CMP C3D04065A
+D 650V, 4A, SiC Schottky Diode, TO-220
+K sic diode
+F https://www.wolfspeed.com/media/downloads/841/C3D04065A.pdf
+$ENDCMP
+#
+$CMP C3D06060A
+D 600V, 6A, SiC Schottky Diode, TO-220
+K sic diode
+F https://www.wolfspeed.com/media/downloads/844/C3D06060A.pdf
+$ENDCMP
+#
+$CMP C3D06065A
+D 650V, 6A, SiC Schottky Diode, TO-220
+K sic diode
+F https://www.wolfspeed.com/media/downloads/65/C3D06065A.pdf
+$ENDCMP
+#
+$CMP C3D06065I
+D 650V, 6A, SiC Schottky Diode, Isolated TO-220
+K sic diode
+F https://www.wolfspeed.com/media/downloads/44/C3D06065I.pdf
+$ENDCMP
+#
+$CMP C3D08060A
+D 600V, 8A, SiC Schottky Diode, TO-220
+K sic diode
+F https://www.wolfspeed.com/media/downloads/843/C3D08060A.pdf
+$ENDCMP
+#
+$CMP C3D08065A
+D 650V, 8A, SiC Schottky Diode, TO-220
+K sic diode
+F https://www.wolfspeed.com/media/downloads/840/C3D08065A.pdf
+$ENDCMP
+#
+$CMP C3D08065I
+D 650V, 8A, SiC Schottky Diode, Isolated TO-220
+K sic diode
+F https://www.wolfspeed.com/media/downloads/47/C3D08065I.pdf
+$ENDCMP
+#
+$CMP C3D10060A
+D 600V, 10A, SiC Schottky Diode, TO-220
+K sic diode
+F https://www.wolfspeed.com/media/downloads/842/C3D10060A.pdf
+$ENDCMP
+#
+$CMP C3D10065A
+D 650V, 10A, SiC Schottky Diode, TO-220
+K sic diode
+F https://www.wolfspeed.com/media/downloads/73/C3D10065A.pdf
+$ENDCMP
+#
+$CMP C3D10065I
+D 650V, 10A, SiC Schottky Diode, Isolated TO-220
+K sic diode
+F https://www.wolfspeed.com/media/downloads/49/C3D10065I.pdf
+$ENDCMP
+#
+$CMP C3D12065A
+D 650V, 12A, SiC Schottky Diode, TO-220
+K sic diode
+F https://www.wolfspeed.com/media/downloads/963/C3D12065A.pdf
+$ENDCMP
+#
+$CMP C3D16065A
+D 650V, 16A, SiC Schottky Diode, TO-220
+K sic diode
+F https://www.wolfspeed.com/media/downloads/964/C3D16065A.pdf
+$ENDCMP
+#
+$CMP C4D02120A
+D 1200V, 2A, SiC Schottky Diode, TO-220
+K sic diode
+F https://www.wolfspeed.com/media/downloads/75/C4D02120A.pdf
+$ENDCMP
+#
+$CMP C4D05120A
+D 1200V, 5A, SiC Schottky Diode, TO-220
+K sic diode
+F https://www.wolfspeed.com/media/downloads/77/C4D05120A.pdf
+$ENDCMP
+#
+$CMP C4D08120A
+D 1200V, 8A, SiC Schottky Diode, TO-220
+K sic diode
+F https://www.wolfspeed.com/media/downloads/80/C4D08120A.pdf
+$ENDCMP
+#
+$CMP C4D10120A
+D 1200V, 10A, SiC Schottky Diode, TO-220
+K sic diode
+F https://www.wolfspeed.com/media/downloads/82/C4D10120A.pdf
+$ENDCMP
+#
+$CMP C4D15120A
+D 1200V, 15A, SiC Schottky Diode, TO-220
+K sic diode
+F https://www.wolfspeed.com/media/downloads/84/C4D15120A.pdf
+$ENDCMP
+#
+$CMP C4D20120A
+D 1200V, 20A, SiC Schottky Diode, TO-220
+K sic diode
+F https://www.wolfspeed.com/media/downloads/85/C4D20120A.pdf
+$ENDCMP
+#
+$CMP CD74HCT221E
+D CD74HCT221E, Dual Monostable Multivibrator, HCT, 4mA 4.5  5.5 V 16-Pin PDIP
+F http://www.ti.com/lit/ds/symlink/cd74hct221.pdf
+$ENDCMP
+#
+$CMP CSD01060A
+D 600V, 1A, SiC Schottky Diode, TO-220
+K sic diode
+F https://www.wolfspeed.com/media/downloads/87/CSD01060.pdf
+$ENDCMP
+#
+$CMP CVFD20065A
+D 650V, 20A, SiC Schottky Diode, TO-220
+K sic diode
+F https://www.wolfspeed.com/media/downloads/89/CVFD20065A.pdf
+$ENDCMP
+#
+$CMP IPP020N08N5AKSA1
+D 300A Id, 80V Vds, OptiMOS N-Channel Power MOSFET, 1.2mOhm Ron, Qg (typ) 178.0nC, PG-HSOF-8
+K OptiMOS Power MOSFET N-MOS
+F https://www.infineon.com/dgdl/Infineon-IPP020N08N5-DS-v02_01-en.pdf?fileId=5546d461454603990145ccd88c826204
+$ENDCMP
+#
+$CMP IPT015N10N5
+D 300A Id, 100V Vds, OptiMOS N-Channel Power MOSFET, 1.5mOhm Ron, Qg (typ) 169.0nC, PG-HSOF-8
+K OptiMOS Power MOSFET N-MOS
+F http://www.infineon.com/dgdl/Infineon-IPT015N10N5-DS-v02_01-EN.pdf?fileId=5546d4624a75e5f1014ac94680661aff
+$ENDCMP
+#
+$CMP IPT020N10N3
+D 300A Id, 100V Vds, OptiMOS N-Channel Power MOSFET, 2.0mOhm Ron, Qg (typ) 156.0nC, PG-HSOF-8
+K OptiMOS Power MOSFET N-MOS
+F http://www.infineon.com/dgdl/Infineon-IPT020N10N3-DS-v02_00-en.pdf?fileId=db3a30433e9d5d11013e9e58035b0158
+$ENDCMP
+#
+$CMP MBR2515LG
+D 35V 7.5A Schottky Barrier Rectifier Diode, TO-220
+K diode Schottky
+F http://www.onsemi.com/pub/Collateral/MBR2515L-D.PDF
+$ENDCMP
+#
+$CMP MBR745
+D 45V 7.5A Schottky Barrier Rectifier Diode, TO-220
+K diode Schottky
+F http://www.onsemi.com/pub_link/Collateral/MBR735-D.PDF
+$ENDCMP
+#
+$CMP Solenoid
+D 1x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol
+K dip switch
+F ~
+$ENDCMP
+#
+$CMP SpecialSwitch
+D 1x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol
+K dip switch
+F ~
+$ENDCMP
+#
+$CMP TLP351
+D Gate Drive Optocoupler, Output Current 1.5/1.5A, DIP-8
+K MOSFET Driver IGBT Driver Optocoupler
+F http://toshiba.semicon-storage.com/info/docget.jsp?did=16821&prodName=TLP250
+$ENDCMP
+#
+#End Doc Library
